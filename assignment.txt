@@ -27,3 +27,6 @@ Milestone 5:
 Delete from trip where  dept_name=’Computer’
 
 
+Milestone 6:
+
+
