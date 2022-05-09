@@ -26,5 +26,4 @@ Select s_name, count(sno) from salesman,trip where to_city=’Calcutta’;
 Milestone 5:
 Delete from trip where  dept_name=’Computer’
 
-Milestone 7:
 
