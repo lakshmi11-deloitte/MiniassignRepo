@@ -1,3 +1,5 @@
+Assignemnt
+
 Milestone 1:
 create table salesman(sno int, s_name varchar(30), start_year date, deptno varchar(10),
 					 primary key(sno));
